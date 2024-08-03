@@ -1,4 +1,4 @@
-# cancer_predictor
+# Cancer Predictor
 
 Cancer predictor for the Cancer dataset in the Kaggle platform.
 
